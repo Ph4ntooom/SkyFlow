@@ -1,0 +1,7 @@
+weather_key,weather_category,severity_level
+1,Clear,1
+2,Fog/LowVis,3
+3,HighWind,2
+4,Rain,2
+5,Snow/Ice,3
+6,Unknown,0

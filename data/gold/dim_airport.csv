@@ -1,0 +1,615 @@
+airport_key,iata_code,dot_airport_id,airport_name,city_key,country,latitude,longitude,timezone_name,coord_source
+1,10135,,Unknown Airport (10135),,USA,,,UTC,Unmatched
+2,10136,,Unknown Airport (10136),,USA,,,UTC,Unmatched
+3,10140,,Unknown Airport (10140),,USA,,,UTC,Unmatched
+4,10141,,Unknown Airport (10141),,USA,,,UTC,Unmatched
+5,10146,,Unknown Airport (10146),,USA,,,UTC,Unmatched
+6,10154,,Unknown Airport (10154),,USA,,,UTC,Unmatched
+7,10155,,Unknown Airport (10155),,USA,,,UTC,Unmatched
+8,10157,,Unknown Airport (10157),,USA,,,UTC,Unmatched
+9,10158,,Unknown Airport (10158),,USA,,,UTC,Unmatched
+10,10165,,Unknown Airport (10165),,USA,,,UTC,Unmatched
+11,10170,,Unknown Airport (10170),,USA,,,UTC,Unmatched
+12,10185,,Unknown Airport (10185),,USA,,,UTC,Unmatched
+13,10208,,Unknown Airport (10208),,USA,,,UTC,Unmatched
+14,10257,,Unknown Airport (10257),,USA,,,UTC,Unmatched
+15,10268,,Unknown Airport (10268),,USA,,,UTC,Unmatched
+16,10279,,Unknown Airport (10279),,USA,,,UTC,Unmatched
+17,10299,,Unknown Airport (10299),,USA,,,UTC,Unmatched
+18,10333,,Unknown Airport (10333),,USA,,,UTC,Unmatched
+19,10372,,Unknown Airport (10372),,USA,,,UTC,Unmatched
+20,10408,,Unknown Airport (10408),,USA,,,UTC,Unmatched
+21,10423,,Unknown Airport (10423),,USA,,,UTC,Unmatched
+22,10431,,Unknown Airport (10431),,USA,,,UTC,Unmatched
+23,10434,,Unknown Airport (10434),,USA,,,UTC,Unmatched
+24,10469,,Unknown Airport (10469),,USA,,,UTC,Unmatched
+25,10529,,Unknown Airport (10529),,USA,,,UTC,Unmatched
+26,10551,,Unknown Airport (10551),,USA,,,UTC,Unmatched
+27,10561,,Unknown Airport (10561),,USA,,,UTC,Unmatched
+28,10577,,Unknown Airport (10577),,USA,,,UTC,Unmatched
+29,10581,,Unknown Airport (10581),,USA,,,UTC,Unmatched
+30,10599,,Unknown Airport (10599),,USA,,,UTC,Unmatched
+31,10620,,Unknown Airport (10620),,USA,,,UTC,Unmatched
+32,10627,,Unknown Airport (10627),,USA,,,UTC,Unmatched
+33,10631,,Unknown Airport (10631),,USA,,,UTC,Unmatched
+34,10666,,Unknown Airport (10666),,USA,,,UTC,Unmatched
+35,10685,,Unknown Airport (10685),,USA,,,UTC,Unmatched
+36,10693,,Unknown Airport (10693),,USA,,,UTC,Unmatched
+37,10713,,Unknown Airport (10713),,USA,,,UTC,Unmatched
+38,10728,,Unknown Airport (10728),,USA,,,UTC,Unmatched
+39,10731,,Unknown Airport (10731),,USA,,,UTC,Unmatched
+40,10732,,Unknown Airport (10732),,USA,,,UTC,Unmatched
+41,10739,,Unknown Airport (10739),,USA,,,UTC,Unmatched
+42,10747,,Unknown Airport (10747),,USA,,,UTC,Unmatched
+43,10754,,Unknown Airport (10754),,USA,,,UTC,Unmatched
+44,10779,,Unknown Airport (10779),,USA,,,UTC,Unmatched
+45,10781,,Unknown Airport (10781),,USA,,,UTC,Unmatched
+46,10785,,Unknown Airport (10785),,USA,,,UTC,Unmatched
+47,10792,,Unknown Airport (10792),,USA,,,UTC,Unmatched
+48,10800,,Unknown Airport (10800),,USA,,,UTC,Unmatched
+49,10821,,Unknown Airport (10821),,USA,,,UTC,Unmatched
+50,10849,,Unknown Airport (10849),,USA,,,UTC,Unmatched
+51,10868,,Unknown Airport (10868),,USA,,,UTC,Unmatched
+52,10874,,Unknown Airport (10874),,USA,,,UTC,Unmatched
+53,10918,,Unknown Airport (10918),,USA,,,UTC,Unmatched
+54,10926,,Unknown Airport (10926),,USA,,,UTC,Unmatched
+55,10980,,Unknown Airport (10980),,USA,,,UTC,Unmatched
+56,10990,,Unknown Airport (10990),,USA,,,UTC,Unmatched
+57,10994,,Unknown Airport (10994),,USA,,,UTC,Unmatched
+58,11003,,Unknown Airport (11003),,USA,,,UTC,Unmatched
+59,11013,,Unknown Airport (11013),,USA,,,UTC,Unmatched
+60,11042,,Unknown Airport (11042),,USA,,,UTC,Unmatched
+61,11049,,Unknown Airport (11049),,USA,,,UTC,Unmatched
+62,11066,,Unknown Airport (11066),,USA,,,UTC,Unmatched
+63,11067,,Unknown Airport (11067),,USA,,,UTC,Unmatched
+64,11076,,Unknown Airport (11076),,USA,,,UTC,Unmatched
+65,11097,,Unknown Airport (11097),,USA,,,UTC,Unmatched
+66,11109,,Unknown Airport (11109),,USA,,,UTC,Unmatched
+67,11111,,Unknown Airport (11111),,USA,,,UTC,Unmatched
+68,11122,,Unknown Airport (11122),,USA,,,UTC,Unmatched
+69,11140,,Unknown Airport (11140),,USA,,,UTC,Unmatched
+70,11146,,Unknown Airport (11146),,USA,,,UTC,Unmatched
+71,11150,,Unknown Airport (11150),,USA,,,UTC,Unmatched
+72,11193,,Unknown Airport (11193),,USA,,,UTC,Unmatched
+73,11203,,Unknown Airport (11203),,USA,,,UTC,Unmatched
+74,11252,,Unknown Airport (11252),,USA,,,UTC,Unmatched
+75,11259,,Unknown Airport (11259),,USA,,,UTC,Unmatched
+76,11267,,Unknown Airport (11267),,USA,,,UTC,Unmatched
+77,11274,,Unknown Airport (11274),,USA,,,UTC,Unmatched
+78,11278,,Unknown Airport (11278),,USA,,,UTC,Unmatched
+79,11308,,Unknown Airport (11308),,USA,,,UTC,Unmatched
+80,11315,,Unknown Airport (11315),,USA,,,UTC,Unmatched
+81,11337,,Unknown Airport (11337),,USA,,,UTC,Unmatched
+82,11413,,Unknown Airport (11413),,USA,,,UTC,Unmatched
+83,11423,,Unknown Airport (11423),,USA,,,UTC,Unmatched
+84,11433,,Unknown Airport (11433),,USA,,,UTC,Unmatched
+85,11447,,Unknown Airport (11447),,USA,,,UTC,Unmatched
+86,11471,,Unknown Airport (11471),,USA,,,UTC,Unmatched
+87,11481,,Unknown Airport (11481),,USA,,,UTC,Unmatched
+88,11503,,Unknown Airport (11503),,USA,,,UTC,Unmatched
+89,11525,,Unknown Airport (11525),,USA,,,UTC,Unmatched
+90,11537,,Unknown Airport (11537),,USA,,,UTC,Unmatched
+91,11540,,Unknown Airport (11540),,USA,,,UTC,Unmatched
+92,11577,,Unknown Airport (11577),,USA,,,UTC,Unmatched
+93,11587,,Unknown Airport (11587),,USA,,,UTC,Unmatched
+94,11603,,Unknown Airport (11603),,USA,,,UTC,Unmatched
+95,11612,,Unknown Airport (11612),,USA,,,UTC,Unmatched
+96,11617,,Unknown Airport (11617),,USA,,,UTC,Unmatched
+97,11624,,Unknown Airport (11624),,USA,,,UTC,Unmatched
+98,11630,,Unknown Airport (11630),,USA,,,UTC,Unmatched
+99,11637,,Unknown Airport (11637),,USA,,,UTC,Unmatched
+100,11638,,Unknown Airport (11638),,USA,,,UTC,Unmatched
+101,11641,,Unknown Airport (11641),,USA,,,UTC,Unmatched
+102,11648,,Unknown Airport (11648),,USA,,,UTC,Unmatched
+103,11695,,Unknown Airport (11695),,USA,,,UTC,Unmatched
+104,11697,,Unknown Airport (11697),,USA,,,UTC,Unmatched
+105,11721,,Unknown Airport (11721),,USA,,,UTC,Unmatched
+106,11775,,Unknown Airport (11775),,USA,,,UTC,Unmatched
+107,11778,,Unknown Airport (11778),,USA,,,UTC,Unmatched
+108,11823,,Unknown Airport (11823),,USA,,,UTC,Unmatched
+109,11865,,Unknown Airport (11865),,USA,,,UTC,Unmatched
+110,11867,,Unknown Airport (11867),,USA,,,UTC,Unmatched
+111,11884,,Unknown Airport (11884),,USA,,,UTC,Unmatched
+112,11898,,Unknown Airport (11898),,USA,,,UTC,Unmatched
+113,11905,,Unknown Airport (11905),,USA,,,UTC,Unmatched
+114,11921,,Unknown Airport (11921),,USA,,,UTC,Unmatched
+115,11953,,Unknown Airport (11953),,USA,,,UTC,Unmatched
+116,11973,,Unknown Airport (11973),,USA,,,UTC,Unmatched
+117,11977,,Unknown Airport (11977),,USA,,,UTC,Unmatched
+118,11980,,Unknown Airport (11980),,USA,,,UTC,Unmatched
+119,11982,,Unknown Airport (11982),,USA,,,UTC,Unmatched
+120,11986,,Unknown Airport (11986),,USA,,,UTC,Unmatched
+121,11995,,Unknown Airport (11995),,USA,,,UTC,Unmatched
+122,11996,,Unknown Airport (11996),,USA,,,UTC,Unmatched
+123,12003,,Unknown Airport (12003),,USA,,,UTC,Unmatched
+124,12007,,Unknown Airport (12007),,USA,,,UTC,Unmatched
+125,12016,,Unknown Airport (12016),,USA,,,UTC,Unmatched
+126,12094,,Unknown Airport (12094),,USA,,,UTC,Unmatched
+127,12129,,Unknown Airport (12129),,USA,,,UTC,Unmatched
+128,12156,,Unknown Airport (12156),,USA,,,UTC,Unmatched
+129,12173,,Unknown Airport (12173),,USA,,,UTC,Unmatched
+130,12177,,Unknown Airport (12177),,USA,,,UTC,Unmatched
+131,12191,,Unknown Airport (12191),,USA,,,UTC,Unmatched
+132,12197,,Unknown Airport (12197),,USA,,,UTC,Unmatched
+133,12206,,Unknown Airport (12206),,USA,,,UTC,Unmatched
+134,12217,,Unknown Airport (12217),,USA,,,UTC,Unmatched
+135,12255,,Unknown Airport (12255),,USA,,,UTC,Unmatched
+136,12264,,Unknown Airport (12264),,USA,,,UTC,Unmatched
+137,12265,,Unknown Airport (12265),,USA,,,UTC,Unmatched
+138,12266,,Unknown Airport (12266),,USA,,,UTC,Unmatched
+139,12278,,Unknown Airport (12278),,USA,,,UTC,Unmatched
+140,12280,,Unknown Airport (12280),,USA,,,UTC,Unmatched
+141,12323,,Unknown Airport (12323),,USA,,,UTC,Unmatched
+142,12335,,Unknown Airport (12335),,USA,,,UTC,Unmatched
+143,12339,,Unknown Airport (12339),,USA,,,UTC,Unmatched
+144,12343,,Unknown Airport (12343),,USA,,,UTC,Unmatched
+145,12389,,Unknown Airport (12389),,USA,,,UTC,Unmatched
+146,12391,,Unknown Airport (12391),,USA,,,UTC,Unmatched
+147,12402,,Unknown Airport (12402),,USA,,,UTC,Unmatched
+148,12441,,Unknown Airport (12441),,USA,,,UTC,Unmatched
+149,12448,,Unknown Airport (12448),,USA,,,UTC,Unmatched
+150,12451,,Unknown Airport (12451),,USA,,,UTC,Unmatched
+151,12511,,Unknown Airport (12511),,USA,,,UTC,Unmatched
+152,12519,,Unknown Airport (12519),,USA,,,UTC,Unmatched
+153,12523,,Unknown Airport (12523),,USA,,,UTC,Unmatched
+154,12758,,Unknown Airport (12758),,USA,,,UTC,Unmatched
+155,12819,,Unknown Airport (12819),,USA,,,UTC,Unmatched
+156,12884,,Unknown Airport (12884),,USA,,,UTC,Unmatched
+157,12888,,Unknown Airport (12888),,USA,,,UTC,Unmatched
+158,12889,,Unknown Airport (12889),,USA,,,UTC,Unmatched
+159,12891,,Unknown Airport (12891),,USA,,,UTC,Unmatched
+160,12896,,Unknown Airport (12896),,USA,,,UTC,Unmatched
+161,12898,,Unknown Airport (12898),,USA,,,UTC,Unmatched
+162,12915,,Unknown Airport (12915),,USA,,,UTC,Unmatched
+163,12945,,Unknown Airport (12945),,USA,,,UTC,Unmatched
+164,12951,,Unknown Airport (12951),,USA,,,UTC,Unmatched
+165,12953,,Unknown Airport (12953),,USA,,,UTC,Unmatched
+166,12954,,Unknown Airport (12954),,USA,,,UTC,Unmatched
+167,12982,,Unknown Airport (12982),,USA,,,UTC,Unmatched
+168,12992,,Unknown Airport (12992),,USA,,,UTC,Unmatched
+169,13029,,Unknown Airport (13029),,USA,,,UTC,Unmatched
+170,13061,,Unknown Airport (13061),,USA,,,UTC,Unmatched
+171,13076,,Unknown Airport (13076),,USA,,,UTC,Unmatched
+172,13127,,Unknown Airport (13127),,USA,,,UTC,Unmatched
+173,13158,,Unknown Airport (13158),,USA,,,UTC,Unmatched
+174,13184,,Unknown Airport (13184),,USA,,,UTC,Unmatched
+175,13198,,Unknown Airport (13198),,USA,,,UTC,Unmatched
+176,13204,,Unknown Airport (13204),,USA,,,UTC,Unmatched
+177,13230,,Unknown Airport (13230),,USA,,,UTC,Unmatched
+178,13241,,Unknown Airport (13241),,USA,,,UTC,Unmatched
+179,13244,,Unknown Airport (13244),,USA,,,UTC,Unmatched
+180,13256,,Unknown Airport (13256),,USA,,,UTC,Unmatched
+181,13264,,Unknown Airport (13264),,USA,,,UTC,Unmatched
+182,13277,,Unknown Airport (13277),,USA,,,UTC,Unmatched
+183,13290,,Unknown Airport (13290),,USA,,,UTC,Unmatched
+184,13296,,Unknown Airport (13296),,USA,,,UTC,Unmatched
+185,13342,,Unknown Airport (13342),,USA,,,UTC,Unmatched
+186,13344,,Unknown Airport (13344),,USA,,,UTC,Unmatched
+187,13360,,Unknown Airport (13360),,USA,,,UTC,Unmatched
+188,13367,,Unknown Airport (13367),,USA,,,UTC,Unmatched
+189,13377,,Unknown Airport (13377),,USA,,,UTC,Unmatched
+190,13422,,Unknown Airport (13422),,USA,,,UTC,Unmatched
+191,13433,,Unknown Airport (13433),,USA,,,UTC,Unmatched
+192,13459,,Unknown Airport (13459),,USA,,,UTC,Unmatched
+193,13476,,Unknown Airport (13476),,USA,,,UTC,Unmatched
+194,13485,,Unknown Airport (13485),,USA,,,UTC,Unmatched
+195,13486,,Unknown Airport (13486),,USA,,,UTC,Unmatched
+196,13495,,Unknown Airport (13495),,USA,,,UTC,Unmatched
+197,13502,,Unknown Airport (13502),,USA,,,UTC,Unmatched
+198,13541,,Unknown Airport (13541),,USA,,,UTC,Unmatched
+199,13577,,Unknown Airport (13577),,USA,,,UTC,Unmatched
+200,13795,,Unknown Airport (13795),,USA,,,UTC,Unmatched
+201,13796,,Unknown Airport (13796),,USA,,,UTC,Unmatched
+202,13830,,Unknown Airport (13830),,USA,,,UTC,Unmatched
+203,13851,,Unknown Airport (13851),,USA,,,UTC,Unmatched
+204,13871,,Unknown Airport (13871),,USA,,,UTC,Unmatched
+205,13873,,Unknown Airport (13873),,USA,,,UTC,Unmatched
+206,13891,,Unknown Airport (13891),,USA,,,UTC,Unmatched
+207,13931,,Unknown Airport (13931),,USA,,,UTC,Unmatched
+208,13933,,Unknown Airport (13933),,USA,,,UTC,Unmatched
+209,13964,,Unknown Airport (13964),,USA,,,UTC,Unmatched
+210,13970,,Unknown Airport (13970),,USA,,,UTC,Unmatched
+211,14006,,Unknown Airport (14006),,USA,,,UTC,Unmatched
+212,14025,,Unknown Airport (14025),,USA,,,UTC,Unmatched
+213,14027,,Unknown Airport (14027),,USA,,,UTC,Unmatched
+214,14057,,Unknown Airport (14057),,USA,,,UTC,Unmatched
+215,14098,,Unknown Airport (14098),,USA,,,UTC,Unmatched
+216,14100,,Unknown Airport (14100),,USA,,,UTC,Unmatched
+217,14108,,Unknown Airport (14108),,USA,,,UTC,Unmatched
+218,14109,,Unknown Airport (14109),,USA,,,UTC,Unmatched
+219,14113,,Unknown Airport (14113),,USA,,,UTC,Unmatched
+220,14122,,Unknown Airport (14122),,USA,,,UTC,Unmatched
+221,14150,,Unknown Airport (14150),,USA,,,UTC,Unmatched
+222,14193,,Unknown Airport (14193),,USA,,,UTC,Unmatched
+223,14222,,Unknown Airport (14222),,USA,,,UTC,Unmatched
+224,14252,,Unknown Airport (14252),,USA,,,UTC,Unmatched
+225,14254,,Unknown Airport (14254),,USA,,,UTC,Unmatched
+226,14256,,Unknown Airport (14256),,USA,,,UTC,Unmatched
+227,14262,,Unknown Airport (14262),,USA,,,UTC,Unmatched
+228,14307,,Unknown Airport (14307),,USA,,,UTC,Unmatched
+229,14321,,Unknown Airport (14321),,USA,,,UTC,Unmatched
+230,14457,,Unknown Airport (14457),,USA,,,UTC,Unmatched
+231,14487,,Unknown Airport (14487),,USA,,,UTC,Unmatched
+232,14489,,Unknown Airport (14489),,USA,,,UTC,Unmatched
+233,14492,,Unknown Airport (14492),,USA,,,UTC,Unmatched
+234,14520,,Unknown Airport (14520),,USA,,,UTC,Unmatched
+235,14524,,Unknown Airport (14524),,USA,,,UTC,Unmatched
+236,14543,,Unknown Airport (14543),,USA,,,UTC,Unmatched
+237,14570,,Unknown Airport (14570),,USA,,,UTC,Unmatched
+238,14574,,Unknown Airport (14574),,USA,,,UTC,Unmatched
+239,14576,,Unknown Airport (14576),,USA,,,UTC,Unmatched
+240,14588,,Unknown Airport (14588),,USA,,,UTC,Unmatched
+241,14633,,Unknown Airport (14633),,USA,,,UTC,Unmatched
+242,14635,,Unknown Airport (14635),,USA,,,UTC,Unmatched
+243,14674,,Unknown Airport (14674),,USA,,,UTC,Unmatched
+244,14679,,Unknown Airport (14679),,USA,,,UTC,Unmatched
+245,14683,,Unknown Airport (14683),,USA,,,UTC,Unmatched
+246,14685,,Unknown Airport (14685),,USA,,,UTC,Unmatched
+247,14689,,Unknown Airport (14689),,USA,,,UTC,Unmatched
+248,14696,,Unknown Airport (14696),,USA,,,UTC,Unmatched
+249,14698,,Unknown Airport (14698),,USA,,,UTC,Unmatched
+250,14709,,Unknown Airport (14709),,USA,,,UTC,Unmatched
+251,14711,,Unknown Airport (14711),,USA,,,UTC,Unmatched
+252,14730,,Unknown Airport (14730),,USA,,,UTC,Unmatched
+253,14783,,Unknown Airport (14783),,USA,,,UTC,Unmatched
+254,14794,,Unknown Airport (14794),,USA,,,UTC,Unmatched
+255,14814,,Unknown Airport (14814),,USA,,,UTC,Unmatched
+256,14828,,Unknown Airport (14828),,USA,,,UTC,Unmatched
+257,14831,,Unknown Airport (14831),,USA,,,UTC,Unmatched
+258,14842,,Unknown Airport (14842),,USA,,,UTC,Unmatched
+259,14843,,Unknown Airport (14843),,USA,,,UTC,Unmatched
+260,14869,,Unknown Airport (14869),,USA,,,UTC,Unmatched
+261,14893,,Unknown Airport (14893),,USA,,,UTC,Unmatched
+262,14905,,Unknown Airport (14905),,USA,,,UTC,Unmatched
+263,14908,,Unknown Airport (14908),,USA,,,UTC,Unmatched
+264,14952,,Unknown Airport (14952),,USA,,,UTC,Unmatched
+265,14960,,Unknown Airport (14960),,USA,,,UTC,Unmatched
+266,14986,,Unknown Airport (14986),,USA,,,UTC,Unmatched
+267,15016,,Unknown Airport (15016),,USA,,,UTC,Unmatched
+268,15024,,Unknown Airport (15024),,USA,,,UTC,Unmatched
+269,15027,,Unknown Airport (15027),,USA,,,UTC,Unmatched
+270,15041,,Unknown Airport (15041),,USA,,,UTC,Unmatched
+271,15048,,Unknown Airport (15048),,USA,,,UTC,Unmatched
+272,15070,,Unknown Airport (15070),,USA,,,UTC,Unmatched
+273,15096,,Unknown Airport (15096),,USA,,,UTC,Unmatched
+274,15249,,Unknown Airport (15249),,USA,,,UTC,Unmatched
+275,15295,,Unknown Airport (15295),,USA,,,UTC,Unmatched
+276,15304,,Unknown Airport (15304),,USA,,,UTC,Unmatched
+277,15323,,Unknown Airport (15323),,USA,,,UTC,Unmatched
+278,15356,,Unknown Airport (15356),,USA,,,UTC,Unmatched
+279,15370,,Unknown Airport (15370),,USA,,,UTC,Unmatched
+280,15376,,Unknown Airport (15376),,USA,,,UTC,Unmatched
+281,15380,,Unknown Airport (15380),,USA,,,UTC,Unmatched
+282,15389,,Unknown Airport (15389),,USA,,,UTC,Unmatched
+283,15401,,Unknown Airport (15401),,USA,,,UTC,Unmatched
+284,15411,,Unknown Airport (15411),,USA,,,UTC,Unmatched
+285,15412,,Unknown Airport (15412),,USA,,,UTC,Unmatched
+286,15497,,Unknown Airport (15497),,USA,,,UTC,Unmatched
+287,15607,,Unknown Airport (15607),,USA,,,UTC,Unmatched
+288,15624,,Unknown Airport (15624),,USA,,,UTC,Unmatched
+289,15841,,Unknown Airport (15841),,USA,,,UTC,Unmatched
+290,15919,,Unknown Airport (15919),,USA,,,UTC,Unmatched
+291,15991,,Unknown Airport (15991),,USA,,,UTC,Unmatched
+292,16218,,Unknown Airport (16218),,USA,,,UTC,Unmatched
+293,ABE,,Lehigh Valley International Airport,238.0,USA,40.65236,-75.4404,America/New_York,Kaggle_Airports
+294,ABI,,Abilene Regional Airport,262.0,USA,32.41132,-99.6819,America/New_York,Kaggle_Airports
+295,ABQ,,Albuquerque International Sunport,205.0,USA,35.04022,-106.60919,America/New_York,Kaggle_Airports
+296,ABR,,Aberdeen Regional Airport,254.0,USA,45.44906,-98.42183,America/New_York,Kaggle_Airports
+297,ABY,,Southwest Georgia Regional Airport,84.0,USA,31.53552,-84.19447,America/New_York,Kaggle_Airports
+298,ACK,,Nantucket Memorial Airport,136.0,USA,41.25305,-70.06018,America/New_York,Kaggle_Airports
+299,ACT,,Waco Regional Airport,283.0,USA,31.61129,-97.23052,America/New_York,Kaggle_Airports
+300,ACV,,Arcata Airport,34.0,USA,40.97812,-124.10862,America/New_York,Kaggle_Airports
+301,ACY,,Atlantic City International Airport,202.0,USA,39.45758,-74.57717,America/New_York,Kaggle_Airports
+302,ADK,,Adak Airport,1.0,USA,51.87796,-176.64603,America/New_York,Kaggle_Airports
+303,ADQ,,Kodiak Airport,13.0,USA,57.74997,-152.49386,America/New_York,Kaggle_Airports
+304,AEX,,Alexandria International Airport,126.0,USA,31.32737,-92.54856,America/New_York,Kaggle_Airports
+305,AGS,,Augusta Regional Airport (Bush Field),86.0,USA,33.36996,-81.9645,America/New_York,Kaggle_Airports
+306,AKN,,King Salmon Airport,12.0,USA,58.6768,-156.64922,America/New_York,Kaggle_Airports
+307,ALB,,Albany International Airport,212.0,USA,42.74812,-73.80298,America/New_York,Kaggle_Airports
+308,ALO,,Waterloo Regional Airport,101.0,USA,42.55708,-92.40034,America/New_York,Kaggle_Airports
+309,AMA,,Rick Husband Amarillo International Airport,263.0,USA,35.21937,-101.70593,America/New_York,Kaggle_Airports
+310,ANC,,Ted Stevens Anchorage International Airport,2.0,USA,61.17432,-149.99619,America/New_York,Kaggle_Airports
+311,APN,,Alpena County Regional Airport,141.0,USA,45.07807,-83.56029,America/New_York,Kaggle_Airports
+312,ASE,,Aspen-Pitkin County Airport,55.0,USA,39.22316,-106.86885,America/New_York,Kaggle_Airports
+313,ATL,10397.0,Hartsfield-Jackson Atlanta International Airport,85.0,USA,33.64044,-84.42694,America/New_York,Kaggle_Airports
+314,ATW,,Appleton International Airport,304.0,USA,44.25741,-88.51948,America/New_York,Kaggle_Airports
+315,AUS,,Austin-Bergstrom International Airport,264.0,USA,30.19453,-97.66987,America/New_York,Kaggle_Airports
+316,AVL,,Asheville Regional Airport,182.0,USA,35.43619,-82.54181,America/New_York,Kaggle_Airports
+317,AVP,,Wilkes-Barre/Scranton International Airport,245.0,USA,41.33815,-75.72427,America/New_York,Kaggle_Airports
+318,AZO,,Kalamazoo/Battle Creek International Airport,148.0,USA,42.23488,-85.55206,America/New_York,Kaggle_Airports
+319,BDL,,Bradley International Airport,65.0,USA,41.93887,-72.68323,America/New_York,Kaggle_Airports
+320,BET,,Bethel Airport,4.0,USA,60.77978,-161.838,America/New_York,Kaggle_Airports
+321,BFL,,Meadows Field,35.0,USA,35.4336,-119.05677,America/New_York,Kaggle_Airports
+322,BGM,,Greater Binghamton Airport,213.0,USA,42.20848,-75.97961,America/New_York,Kaggle_Airports
+323,BGR,,Bangor International Airport,139.0,USA,44.80744,-68.82814,America/New_York,Kaggle_Airports
+324,BHM,,Birmingham-Shuttlesworth International Airport,20.0,USA,33.56294,-86.75355,America/New_York,Kaggle_Airports
+325,BIL,,Billings Logan International Airport,174.0,USA,45.80766,-108.54286,America/New_York,Kaggle_Airports
+326,BIS,,Bismarck Municipal Airport,190.0,USA,46.77411,-100.74672,America/New_York,Kaggle_Airports
+327,BJI,,Bemidji Regional Airport,156.0,USA,47.50942,-94.93372,America/New_York,Kaggle_Airports
+328,BLI,,Bellingham International Airport,300.0,USA,48.79275,-122.53753,America/New_York,Kaggle_Airports
+329,BMI,,Central Illinois Regional Airport at Bloomington-Normal,108.0,USA,40.47799,-88.91595,America/New_York,Kaggle_Airports
+330,BNA,,Nashville International Airport,261.0,USA,36.12448,-86.67818,America/New_York,Kaggle_Airports
+331,BOI,,Boise Airport (Boise Air Terminal),102.0,USA,43.56444,-116.22278,America/New_York,Kaggle_Airports
+332,BOS,10721.0,Gen. Edward Lawrence Logan International Airport,133.0,USA,42.36435,-71.00518,America/New_York,Kaggle_Airports
+333,BPT,,Jack Brooks Regional Airport (Southeast Texas Regional),265.0,USA,29.95083,-94.02069,America/New_York,Kaggle_Airports
+334,BQK,,Brunswick Golden Isles Airport,87.0,USA,31.25903,-81.46631,America/New_York,Kaggle_Airports
+335,BQN,,Rafael Hernández Airport,246.0,USA,18.49486,-67.12944,America/New_York,Kaggle_Airports
+336,BRD,,Brainerd Lakes Regional Airport,157.0,USA,46.39786,-94.13723,America/New_York,Kaggle_Airports
+337,BRO,,Brownsville/South Padre Island International Airport,266.0,USA,25.90683,-97.42586,America/New_York,Kaggle_Airports
+338,BRW,,Wiley Post-Will Rogers Memorial Airport,3.0,USA,71.28545,-156.766,America/New_York,Kaggle_Airports
+339,BTM,,Bert Mooney Airport,176.0,USA,45.9548,-112.49746,America/New_York,Kaggle_Airports
+340,BTR,,Baton Rouge Metropolitan Airport,127.0,USA,30.53316,-91.14963,America/New_York,Kaggle_Airports
+341,BTV,,Burlington International Airport,299.0,USA,44.473,-73.15031,America/New_York,Kaggle_Airports
+342,BUF,,Buffalo Niagara International Airport,214.0,USA,42.94052,-78.73217,America/New_York,Kaggle_Airports
+343,BUR,,Bob Hope Airport (Hollywood Burbank Airport),36.0,USA,34.20062,-118.3585,America/New_York,Kaggle_Airports
+344,BWI,,Baltimore-Washington International Airport,138.0,USA,39.1754,-76.6682,America/New_York,Kaggle_Airports
+345,BZN,,Bozeman Yellowstone International Airport (Gallatin Field Airport),175.0,USA,45.7769,-111.15301,America/New_York,Kaggle_Airports
+346,CAE,,Columbia Metropolitan Airport,251.0,USA,33.93884,-81.11954,America/New_York,Kaggle_Airports
+347,CAK,,Akron-Canton Regional Airport,225.0,USA,40.91631,-81.44247,America/New_York,Kaggle_Airports
+348,CDC,,Cedar City Regional Airport,285.0,USA,37.70097,-113.09858,America/New_York,Kaggle_Airports
+349,CDV,,Merle K. (Mudhole) Smith Airport,5.0,USA,60.49183,-145.47765,America/New_York,Kaggle_Airports
+350,CEC,,Del Norte County Airport (Jack McNamara Field),37.0,USA,41.78016,-124.23653,America/New_York,Kaggle_Airports
+351,CHA,,Chattanooga Metropolitan Airport (Lovell Field),258.0,USA,35.03527,-85.20379,America/New_York,Kaggle_Airports
+352,CHO,,Charlottesville-Albemarle Airport,292.0,USA,38.13864,-78.45286,America/New_York,Kaggle_Airports
+353,CHS,,Charleston International Airport/Charleston AFB,250.0,USA,32.89865,-80.04051,America/New_York,Kaggle_Airports
+354,CID,,The Eastern Iowa Airport,97.0,USA,41.88459,-91.71087,America/New_York,Kaggle_Airports
+355,CIU,,Chippewa County International Airport,154.0,USA,46.25075,-84.47239,America/New_York,Kaggle_Airports
+356,CLD,,McClellan-Palomar Airport,48.0,USA,33.12723,-117.27873,America/New_York,Kaggle_Airports
+357,CLE,,Cleveland Hopkins International Airport,226.0,USA,41.41089,-81.8494,America/New_York,Kaggle_Airports
+358,CLL,,Easterwood Airport,267.0,USA,30.58859,-96.36382,America/New_York,Kaggle_Airports
+359,CLT,11057.0,Charlotte Douglas International Airport,183.0,USA,35.21401,-80.94313,America/New_York,Kaggle_Airports
+360,CMH,,Port Columbus International Airport,227.0,USA,39.99799,-82.89188,America/New_York,Kaggle_Airports
+361,CMI,,University of Illinois - Willard Airport,109.0,USA,40.03925,-88.27806,America/New_York,Kaggle_Airports
+362,CMX,,Houghton County Memorial Airport,146.0,USA,47.16842,-88.48906,America/New_York,Kaggle_Airports
+363,CNY,,Canyonlands Field,286.0,USA,38.75496,-109.75484,America/New_York,Kaggle_Airports
+364,COD,,Yellowstone Regional Airport,314.0,USA,44.52019,-109.0238,America/New_York,Kaggle_Airports
+365,COS,,City of Colorado Springs Municipal Airport,56.0,USA,38.80581,-104.70025,America/New_York,Kaggle_Airports
+366,COU,,Columbia Regional Airport,164.0,USA,38.81809,-92.21963,America/New_York,Kaggle_Airports
+367,CPR,,Natrona County International Airport,313.0,USA,42.90836,-106.46447,America/New_York,Kaggle_Airports
+368,CRP,,Corpus Christi International Airport,268.0,USA,27.77036,-97.50122,America/New_York,Kaggle_Airports
+369,CRW,,Yeager Airport,312.0,USA,38.37315,-81.59319,America/New_York,Kaggle_Airports
+370,CSG,,Columbus Metropolitan Airport,88.0,USA,32.51633,-84.93886,America/New_York,Kaggle_Airports
+371,CVG,,Cincinnati/Northern Kentucky International Airport,122.0,USA,39.04614,-84.66217,America/New_York,Kaggle_Airports
+372,CWA,,Central Wisconsin Airport,310.0,USA,44.77762,-89.66678,America/New_York,Kaggle_Airports
+373,DAB,,Daytona Beach International Airport,67.0,USA,29.17992,-81.05806,America/New_York,Kaggle_Airports
+374,DAL,,Dallas Love Field,269.0,USA,32.84711,-96.85177,America/New_York,Kaggle_Airports
+375,DAY,,James M. Cox Dayton International Airport,228.0,USA,39.90238,-84.21938,America/New_York,Kaggle_Airports
+376,DBQ,,Dubuque Regional Airport,99.0,USA,42.40296,-90.70917,America/New_York,Kaggle_Airports
+377,DCA,,Ronald Reagan Washington National Airport,290.0,USA,38.85208,-77.03772,America/New_York,Kaggle_Airports
+378,DEN,11292.0,Denver International Airport,57.0,USA,39.85841,-104.667,America/Denver,Kaggle_Airports
+379,DFW,11298.0,Dallas/Fort Worth International Airport,270.0,USA,32.89595,-97.0372,America/Chicago,Kaggle_Airports
+380,DHN,,Dothan Regional Airport,21.0,USA,31.32134,-85.44963,America/New_York,Kaggle_Airports
+381,DIK,,Dickinson Theodore Roosevelt Regional Airport,192.0,USA,46.79739,-102.80195,America/New_York,Kaggle_Airports
+382,DLG,,Dillingham Airport,7.0,USA,59.04541,-158.50334,America/New_York,Kaggle_Airports
+383,DLH,,Duluth International Airport,158.0,USA,46.84209,-92.19365,America/New_York,Kaggle_Airports
+384,DRO,,Durango-La Plata County Airport,58.0,USA,37.15152,-107.75377,America/New_York,Kaggle_Airports
+385,DSM,,Des Moines International Airport,98.0,USA,41.53493,-93.66068,America/New_York,Kaggle_Airports
+386,DTW,,Detroit Metropolitan Airport,142.0,USA,42.21206,-83.34884,America/New_York,Kaggle_Airports
+387,DVL,,Devils Lake Regional Airport,191.0,USA,48.11425,-98.90878,America/New_York,Kaggle_Airports
+388,EAU,,Chippewa Valley Regional Airport,305.0,USA,44.86526,-91.48507,America/New_York,Kaggle_Airports
+389,ECP,,Northwest Florida Beaches International Airport,76.0,USA,,,America/New_York,Kaggle_Airports
+390,EGE,,Eagle County Regional Airport,59.0,USA,39.64257,-106.9177,America/New_York,Kaggle_Airports
+391,EKO,,Elko Regional Airport,209.0,USA,40.82493,-115.7917,America/New_York,Kaggle_Airports
+392,ELM,,Elmira/Corning Regional Airport,215.0,USA,42.15991,-76.89144,America/New_York,Kaggle_Airports
+393,ELP,,El Paso International Airport,271.0,USA,31.80667,-106.37781,America/New_York,Kaggle_Airports
+394,ERI,,Erie International Airport,239.0,USA,42.08202,-80.17622,America/New_York,Kaggle_Airports
+395,ESC,,Delta County Airport,143.0,USA,45.72267,-87.09373,America/New_York,Kaggle_Airports
+396,EUG,,Eugene Airport (Mahlon Sweet Field),233.0,USA,44.12326,-123.21869,America/New_York,Kaggle_Airports
+397,EVV,,Evansville Regional Airport,114.0,USA,38.03799,-87.53063,America/New_York,Kaggle_Airports
+398,EWN,,Coastal Carolina Regional Airport (Craven County Regional),187.0,USA,35.07297,-77.04294,America/New_York,Kaggle_Airports
+399,EWR,11618.0,Newark Liberty International Airport,203.0,USA,40.6925,-74.16866,America/New_York,Kaggle_Airports
+400,EYW,,Key West International Airport,72.0,USA,24.55611,-81.75956,America/New_York,Kaggle_Airports
+401,FAI,,Fairbanks International Airport,8.0,USA,64.81368,-147.85967,America/New_York,Kaggle_Airports
+402,FAR,,Hector International Airport,193.0,USA,46.91935,-96.81499,America/New_York,Kaggle_Airports
+403,FAT,,Fresno Yosemite International Airport,38.0,USA,36.77619,-119.71814,America/New_York,Kaggle_Airports
+404,FAY,,Fayetteville Regional Airport,184.0,USA,34.99147,-78.88,America/New_York,Kaggle_Airports
+405,FCA,,Glacier Park International Airport,179.0,USA,48.3114,-114.25507,America/New_York,Kaggle_Airports
+406,FLG,,Flagstaff Pulliam Airport,30.0,USA,35.13845,-111.67122,America/New_York,Kaggle_Airports
+407,FLL,,Fort Lauderdale-Hollywood International Airport,68.0,USA,26.07258,-80.15275,America/New_York,Kaggle_Airports
+408,FNT,,Bishop International Airport,144.0,USA,42.9655,-83.74346,America/New_York,Kaggle_Airports
+409,FSD,,Sioux Falls Regional Airport,256.0,USA,43.58135,-96.7417,America/New_York,Kaggle_Airports
+410,FSM,,Fort Smith Regional Airport,26.0,USA,35.33659,-94.36744,America/New_York,Kaggle_Airports
+411,FWA,,Fort Wayne International Airport,115.0,USA,40.97847,-85.19515,America/New_York,Kaggle_Airports
+412,GCC,,Gillette-Campbell County Airport,315.0,USA,44.3489,-105.53936,America/New_York,Kaggle_Airports
+413,GCK,,Garden City Regional Airport,118.0,USA,37.92752,-100.72441,America/New_York,Kaggle_Airports
+414,GEG,,Spokane International Airport,303.0,USA,47.61986,-117.53384,America/New_York,Kaggle_Airports
+415,GFK,,Grand Forks International Airport,194.0,USA,47.94926,-97.17611,America/New_York,Kaggle_Airports
+416,GGG,,East Texas Regional Airport,276.0,USA,32.38486,-94.71171,America/New_York,Kaggle_Airports
+417,GJT,,Grand Junction Regional Airport (Walker Field),60.0,USA,39.12241,-108.52673,America/New_York,Kaggle_Airports
+418,GNV,,Gainesville Regional Airport,70.0,USA,29.69006,-82.27178,America/New_York,Kaggle_Airports
+419,GPT,,Gulfport-Biloxi International Airport,170.0,USA,30.40728,-89.07009,America/New_York,Kaggle_Airports
+420,GRB,,Green Bay-Austin Straubel International Airport,306.0,USA,44.48507,-88.12959,America/New_York,Kaggle_Airports
+421,GRI,,Central Nebraska Regional Airport,198.0,USA,40.96747,-98.30861,America/New_York,Kaggle_Airports
+422,GRK,,Killeen-Fort Hood Regional Airport,274.0,USA,31.0649,-97.8278,America/New_York,Kaggle_Airports
+423,GRR,,Gerald R. Ford International Airport,145.0,USA,42.88082,-85.52277,America/New_York,Kaggle_Airports
+424,GSO,,Piedmont Triad International Airport,185.0,USA,36.09775,-79.9373,America/New_York,Kaggle_Airports
+425,GSP,,Greenville-Spartanburg International Airport,252.0,USA,34.89567,-82.21886,America/New_York,Kaggle_Airports
+426,GST,,Gustavus Airport,9.0,USA,58.42438,-135.70738,America/New_York,Kaggle_Airports
+427,GTF,,Great Falls International Airport,177.0,USA,47.482,-111.37069,America/New_York,Kaggle_Airports
+428,GTR,,Golden Triangle Regional Airport,169.0,USA,33.45033,-88.59137,America/New_York,Kaggle_Airports
+429,GUC,,Gunnison-Crested Butte Regional Airport,61.0,USA,38.53396,-106.93318,America/New_York,Kaggle_Airports
+430,GUM,,Guam International Airport,91.0,USA,13.48345,-144.79598,America/New_York,Kaggle_Airports
+431,HDN,,Yampa Valley Airport (Yampa Valley Regional),62.0,USA,40.48118,-107.21766,America/New_York,Kaggle_Airports
+432,HIB,,Range Regional Airport (Chisholm-Hibbing Airport),159.0,USA,47.3866,-92.83899,America/New_York,Kaggle_Airports
+433,HLN,,Helena Regional Airport,178.0,USA,46.60682,-111.98275,America/New_York,Kaggle_Airports
+434,HNL,,Honolulu International Airport,93.0,USA,21.31869,-157.92241,America/New_York,Kaggle_Airports
+435,HOB,,Lea County Regional Airport,206.0,USA,32.68753,-103.21703,America/New_York,Kaggle_Airports
+436,HOU,,William P. Hobby Airport,273.0,USA,29.64542,-95.27889,America/New_York,Kaggle_Airports
+437,HPN,,Westchester County Airport,224.0,USA,41.06696,-73.70757,America/New_York,Kaggle_Airports
+438,HRL,,Valley International Airport,272.0,USA,26.22851,-97.65439,America/New_York,Kaggle_Airports
+439,HSV,,Huntsville International Airport,22.0,USA,34.64045,-86.77311,America/New_York,Kaggle_Airports
+440,HYA,,Barnstable Municipal Airport,134.0,USA,41.66934,-70.28036,America/New_York,Kaggle_Airports
+441,HYS,,Hays Regional Airport,119.0,USA,38.84494,-99.27403,America/New_York,Kaggle_Airports
+442,IAD,,Washington Dulles International Airport,291.0,USA,38.94453,-77.45581,America/New_York,Kaggle_Airports
+443,IAG,,Niagara Falls International Airport,220.0,USA,43.10726,-78.94538,America/New_York,Kaggle_Airports
+444,IAH,,George Bush Intercontinental Airport,273.0,USA,29.98047,-95.33972,America/New_York,Kaggle_Airports
+445,ICT,,Wichita Dwight D. Eisenhower National Airport (Wichita Mid-Continent Airport),121.0,USA,37.64996,-97.43305,America/New_York,Kaggle_Airports
+446,IDA,,Idaho Falls Regional Airport,104.0,USA,43.51456,-112.07017,America/New_York,Kaggle_Airports
+447,ILG,,Wilmington Airport,66.0,USA,39.67872,-75.60653,America/New_York,Kaggle_Airports
+448,ILM,,Wilmington International Airport,189.0,USA,34.27061,-77.90256,America/New_York,Kaggle_Airports
+449,IMT,,Ford Airport,147.0,USA,45.81835,-88.11454,America/New_York,Kaggle_Airports
+450,IND,,Indianapolis International Airport,116.0,USA,39.71733,-86.29438,America/New_York,Kaggle_Airports
+451,INL,,Falls International Airport,160.0,USA,48.56619,-93.40307,America/New_York,Kaggle_Airports
+452,ISN,,Sloulin Field International Airport,197.0,USA,48.17794,-103.64235,America/New_York,Kaggle_Airports
+453,ISP,,Long Island MacArthur Airport,216.0,USA,40.79524,-73.10021,America/New_York,Kaggle_Airports
+454,ITH,,Ithaca Tompkins Regional Airport,217.0,USA,42.49103,-76.45844,America/New_York,Kaggle_Airports
+455,ITO,,Hilo International Airport,92.0,USA,19.72026,-155.04847,America/New_York,Kaggle_Airports
+456,JAC,,Jackson Hole Airport,316.0,USA,43.60732,-110.73774,America/New_York,Kaggle_Airports
+457,JAN,,Jackson-Evers International Airport,172.0,USA,32.31117,-90.07589,America/New_York,Kaggle_Airports
+458,JAX,,Jacksonville International Airport,71.0,USA,30.49406,-81.68786,America/New_York,Kaggle_Airports
+459,JFK,12478.0,John F. Kennedy International Airport (New York International Airport),218.0,USA,40.63975,-73.77893,America/New_York,Kaggle_Airports
+460,JLN,,Joplin Regional Airport,165.0,USA,37.15181,-94.49827,America/New_York,Kaggle_Airports
+461,JMS,,Jamestown Regional Airport,195.0,USA,46.92972,-98.6782,America/New_York,Kaggle_Airports
+462,JNU,,Juneau International Airport,10.0,USA,58.35496,-134.57628,America/New_York,Kaggle_Airports
+463,KOA,,Kona International Airport at Keahole,95.0,USA,19.73877,-156.04563,America/New_York,Kaggle_Airports
+464,KTN,,Ketchikan International Airport,11.0,USA,55.35557,-131.71374,America/New_York,Kaggle_Airports
+465,LAN,,Capital Region International Airport ( Lansing Capital City),149.0,USA,42.7787,-84.58736,America/New_York,Kaggle_Airports
+466,LAR,,Laramie Regional Airport,317.0,USA,41.31205,-105.67499,America/New_York,Kaggle_Airports
+467,LAS,,McCarran International Airport,210.0,USA,36.08036,-115.15233,America/New_York,Kaggle_Airports
+468,LAW,,Lawton-Fort Sill Regional Airport,230.0,USA,34.56771,-98.41664,America/New_York,Kaggle_Airports
+469,LAX,12892.0,Los Angeles International Airport,40.0,USA,33.94254,-118.40807,America/Los_Angeles,Kaggle_Airports
+470,LBB,,Lubbock Preston Smith International Airport,277.0,USA,33.66364,-101.82278,America/New_York,Kaggle_Airports
+471,LBE,,Arnold Palmer Regional Airport,241.0,USA,40.27594,-79.4048,America/New_York,Kaggle_Airports
+472,LCH,,Lake Charles Regional Airport,129.0,USA,30.1261,-93.2234,America/New_York,Kaggle_Airports
+473,LEX,,Blue Grass Airport,123.0,USA,38.03697,-84.60539,America/New_York,Kaggle_Airports
+474,LFT,,Lafayette Regional Airport,128.0,USA,30.20528,-91.98766,America/New_York,Kaggle_Airports
+475,LGA,,LaGuardia Airport (Marine Air Terminal),218.0,USA,40.77724,-73.87261,America/New_York,Kaggle_Airports
+476,LGB,,Long Beach Airport (Daugherty Field),39.0,USA,33.81772,-118.15161,America/New_York,Kaggle_Airports
+477,LIH,,Lihue Airport,96.0,USA,21.97598,-159.33896,America/New_York,Kaggle_Airports
+478,LIT,,Bill and Hillary Clinton National Airport (Adams Field),27.0,USA,34.7294,-92.22425,America/New_York,Kaggle_Airports
+479,LNK,,Lincoln Airport (Lincoln Municipal),199.0,USA,40.85097,-96.75925,America/New_York,Kaggle_Airports
+480,LRD,,Laredo International Airport,275.0,USA,27.54374,-99.46154,America/New_York,Kaggle_Airports
+481,LSE,,La Crosse Regional Airport,307.0,USA,43.87938,-91.25654,America/New_York,Kaggle_Airports
+482,LWS,,Lewiston-Nez Perce County Airport,105.0,USA,46.3745,-117.01539,America/New_York,Kaggle_Airports
+483,MAF,,Midland International Airport,279.0,USA,31.94253,-102.20191,America/New_York,Kaggle_Airports
+484,MBS,,MBS International Airport,153.0,USA,43.53291,-84.07965,America/New_York,Kaggle_Airports
+485,MCI,,Kansas City International Airport,166.0,USA,39.29761,-94.71391,America/New_York,Kaggle_Airports
+486,MCO,,Orlando International Airport,75.0,USA,28.42889,-81.31603,America/New_York,Kaggle_Airports
+487,MDT,,Harrisburg International Airport,240.0,USA,40.1935,-76.7634,America/New_York,Kaggle_Airports
+488,MDW,13232.0,Chicago Midway International Airport,110.0,USA,41.78598,-87.75242,America/Chicago,Kaggle_Airports
+489,MEI,,Meridian Regional Airport,173.0,USA,32.33313,-88.75121,America/New_York,Kaggle_Airports
+490,MEM,,Memphis International Airport,260.0,USA,35.04242,-89.97667,America/New_York,Kaggle_Airports
+491,MFE,,McAllen-Miller International Airport (McAllen Miller International),278.0,USA,26.17583,-98.23861,America/New_York,Kaggle_Airports
+492,MFR,,Rogue Valley International Airport,234.0,USA,42.37423,-122.8735,America/New_York,Kaggle_Airports
+493,MGM,,Montgomery Regional Airport,24.0,USA,32.30064,-86.39398,America/New_York,Kaggle_Airports
+494,MHK,,Manhattan Regional Airport,120.0,USA,39.14097,-96.67083,America/New_York,Kaggle_Airports
+495,MHT,,Manchester-Boston Regional Airport,201.0,USA,42.93452,-71.43706,America/New_York,Kaggle_Airports
+496,MIA,13303.0,Miami International Airport,74.0,USA,25.79325,-80.29056,America/New_York,Kaggle_Airports
+497,MKE,,General Mitchell International Airport,309.0,USA,42.94722,-87.89658,America/New_York,Kaggle_Airports
+498,MKG,,Muskegon County Airport,151.0,USA,43.16949,-86.23822,America/New_York,Kaggle_Airports
+499,MLB,,Melbourne International Airport,73.0,USA,28.10275,-80.64581,America/New_York,Kaggle_Airports
+500,MLI,,Quad City International Airport,111.0,USA,41.44853,-90.50754,America/New_York,Kaggle_Airports
+501,MLU,,Monroe Regional Airport,130.0,USA,32.51087,-92.03769,America/New_York,Kaggle_Airports
+502,MMH,,Mammoth Yosemite Airport,41.0,USA,37.62405,-118.83777,America/New_York,Kaggle_Airports
+503,MOB,,Mobile Regional Airport,23.0,USA,30.69142,-88.24283,America/New_York,Kaggle_Airports
+504,MOT,,Minot International Airport,196.0,USA,48.25938,-101.28033,America/New_York,Kaggle_Airports
+505,MQT,,Sawyer International Airport,150.0,USA,46.35364,-87.39536,America/New_York,Kaggle_Airports
+506,MRY,,Monterey Regional Airport (Monterey Peninsula Airport),42.0,USA,36.58698,-121.84295,America/New_York,Kaggle_Airports
+507,MSN,,Dane County Regional Airport,308.0,USA,43.13986,-89.33751,America/New_York,Kaggle_Airports
+508,MSO,,Missoula International Airport,180.0,USA,46.91631,-114.09056,America/New_York,Kaggle_Airports
+509,MSP,13487.0,Minneapolis-Saint Paul International Airport,161.0,USA,44.88055,-93.21692,America/Chicago,Kaggle_Airports
+510,MSY,,Louis Armstrong New Orleans International Airport,131.0,USA,29.99339,-90.25803,America/New_York,Kaggle_Airports
+511,MTJ,,Montrose Regional Airport,63.0,USA,38.50887,-107.89383,America/New_York,Kaggle_Airports
+512,MVY,,Martha's Vineyard Airport,135.0,USA,41.39303,-70.61433,America/New_York,Kaggle_Airports
+513,MYR,,Myrtle Beach International Airport,253.0,USA,33.67975,-78.92833,America/New_York,Kaggle_Airports
+514,OAJ,,Albert J. Ellis Airport,186.0,USA,34.82916,-77.61214,America/New_York,Kaggle_Airports
+515,OAK,,Oakland International Airport,43.0,USA,37.72129,-122.22072,America/New_York,Kaggle_Airports
+516,OGG,,Kahului Airport,94.0,USA,20.89865,-156.43046,America/New_York,Kaggle_Airports
+517,OKC,,Will Rogers World Airport,231.0,USA,35.39309,-97.60073,America/New_York,Kaggle_Airports
+518,OMA,,Eppley Airfield,200.0,USA,41.30252,-95.89417,America/New_York,Kaggle_Airports
+519,OME,,Nome Airport,15.0,USA,64.5122,-165.44525,America/New_York,Kaggle_Airports
+520,ONT,,Ontario International Airport,44.0,USA,34.056,-117.60119,America/New_York,Kaggle_Airports
+521,ORD,13930.0,Chicago O'Hare International Airport,110.0,USA,41.9796,-87.90446,America/Chicago,Kaggle_Airports
+522,ORF,,Norfolk International Airport,294.0,USA,36.89461,-76.20122,America/New_York,Kaggle_Airports
+523,ORH,,Worcester Regional Airport,137.0,USA,42.26734,-71.87571,America/New_York,Kaggle_Airports
+524,OTH,,Southwest Oregon Regional Airport (North Bend Municipal),235.0,USA,43.41714,-124.24603,America/New_York,Kaggle_Airports
+525,OTZ,,Ralph Wien Memorial Airport,14.0,USA,66.88468,-162.59855,America/New_York,Kaggle_Airports
+526,PAH,,Barkley Regional Airport,125.0,USA,37.06083,-88.77375,America/New_York,Kaggle_Airports
+527,PBG,,Plattsburgh International Airport,221.0,USA,,,America/New_York,Kaggle_Airports
+528,PBI,,Palm Beach International Airport,83.0,USA,26.68316,-80.09559,America/New_York,Kaggle_Airports
+529,PDX,,Portland International Airport,236.0,USA,45.58872,-122.5975,America/New_York,Kaggle_Airports
+530,PHF,,Newport News/Williamsburg International Airport,293.0,USA,37.1319,-76.49299,America/New_York,Kaggle_Airports
+531,PHL,,Philadelphia International Airport,242.0,USA,39.87195,-75.24114,America/New_York,Kaggle_Airports
+532,PHX,14107.0,Phoenix Sky Harbor International Airport,31.0,USA,33.43417,-112.00806,America/Phoenix,Kaggle_Airports
+533,PIA,,General Wayne A. Downing Peoria International Airport,112.0,USA,40.66424,-89.69331,America/New_York,Kaggle_Airports
+534,PIB,,Hattiesburg-Laurel Regional Airport,171.0,USA,31.46715,-89.33706,America/New_York,Kaggle_Airports
+535,PIH,,Pocatello Regional Airport,106.0,USA,42.91131,-112.59586,America/New_York,Kaggle_Airports
+536,PIT,,Pittsburgh International Airport,243.0,USA,40.49147,-80.23287,America/New_York,Kaggle_Airports
+537,PLN,,Pellston Regional Airport of Emmet County,152.0,USA,45.57093,-84.79672,America/New_York,Kaggle_Airports
+538,PNS,,Pensacola International Airport (Pensacola Gulf Coast Regional Airport),77.0,USA,30.47331,-87.18744,America/New_York,Kaggle_Airports
+539,PPG,,Pago Pago International Airport (Tafuna Airport),29.0,USA,14.33102,-170.71053,America/New_York,Kaggle_Airports
+540,PSC,,Tri-Cities Airport,301.0,USA,46.26468,-119.11903,America/New_York,Kaggle_Airports
+541,PSE,,Mercedita Airport,247.0,USA,18.0083,-66.56301,America/New_York,Kaggle_Airports
+542,PSG,,Petersburg James A. Johnson Airport,16.0,USA,56.80165,-132.94528,America/New_York,Kaggle_Airports
+543,PSP,,Palm Springs International Airport,45.0,USA,33.82922,-116.50625,America/New_York,Kaggle_Airports
+544,PUB,,Pueblo Memorial Airport,64.0,USA,38.28909,-104.49657,America/New_York,Kaggle_Airports
+545,PVD,,Theodore Francis Green State Airport,249.0,USA,41.724,-71.42822,America/New_York,Kaggle_Airports
+546,PWM,,Portland International Jetport,140.0,USA,43.64617,-70.30875,America/New_York,Kaggle_Airports
+547,RAP,,Rapid City Regional Airport,255.0,USA,44.04532,-103.05737,America/New_York,Kaggle_Airports
+548,RDD,,Redding Municipal Airport,46.0,USA,40.50898,-122.2934,America/New_York,Kaggle_Airports
+549,RDM,,Redmond Municipal Airport (Roberts Field),237.0,USA,44.25407,-121.14996,America/New_York,Kaggle_Airports
+550,RDU,,Raleigh-Durham International Airport,188.0,USA,35.87764,-78.78747,America/New_York,Kaggle_Airports
+551,RHI,,Rhinelander-Oneida County Airport,311.0,USA,45.63119,-89.46745,America/New_York,Kaggle_Airports
+552,RIC,,Richmond International Airport,295.0,USA,37.50517,-77.31967,America/New_York,Kaggle_Airports
+553,RKS,,Rock Springs-Sweetwater County Airport,318.0,USA,41.59422,-109.06519,America/New_York,Kaggle_Airports
+554,RNO,,Reno/Tahoe International Airport,211.0,USA,39.49858,-119.76806,America/New_York,Kaggle_Airports
+555,ROA,,Roanoke Regional Airport (Woodrum Field),296.0,USA,37.32547,-79.97543,America/New_York,Kaggle_Airports
+556,ROC,,Greater Rochester International Airport,222.0,USA,43.11887,-77.67238,America/New_York,Kaggle_Airports
+557,ROW,,Roswell International Air Center,207.0,USA,33.30156,-104.53056,America/New_York,Kaggle_Airports
+558,RST,,Rochester International Airport,162.0,USA,43.90883,-92.49799,America/New_York,Kaggle_Airports
+559,RSW,,Southwest Florida International Airport,69.0,USA,26.53617,-81.75517,America/New_York,Kaggle_Airports
+560,SAF,,Santa Fe Municipal Airport,208.0,USA,35.61678,-106.08814,America/New_York,Kaggle_Airports
+561,SAN,,San Diego International Airport (Lindbergh Field),48.0,USA,32.73356,-117.18966,America/New_York,Kaggle_Airports
+562,SAT,,San Antonio International Airport,281.0,USA,29.53369,-98.46978,America/New_York,Kaggle_Airports
+563,SAV,,Savannah/Hilton Head International Airport,89.0,USA,32.12758,-81.20214,America/New_York,Kaggle_Airports
+564,SBA,,Santa Barbara Municipal Airport (Santa Barbara Airport),53.0,USA,34.42621,-119.84037,America/New_York,Kaggle_Airports
+565,SBN,,South Bend International Airport (South Bend Regional),117.0,USA,41.70895,-86.31847,America/New_York,Kaggle_Airports
+566,SBP,,San Luis Obispo County Regional Airport (McChesney Field),51.0,USA,35.23706,-120.64239,America/New_York,Kaggle_Airports
+567,SCC,,Deadhorse Airport (Prudhoe Bay Airport),6.0,USA,70.19476,-148.46516,America/New_York,Kaggle_Airports
+568,SCE,,University Park Airport,244.0,USA,40.85121,-77.8463,America/New_York,Kaggle_Airports
+569,SDF,,Louisville International Airport (Standiford Field),124.0,USA,38.17439,-85.736,America/New_York,Kaggle_Airports
+570,SEA,14747.0,Seattle-Tacoma International Airport,302.0,USA,47.44898,-122.30931,America/Los_Angeles,Kaggle_Airports
+571,SFO,14771.0,San Francisco International Airport,49.0,USA,37.619,-122.37484,America/Los_Angeles,Kaggle_Airports
+572,SGF,,Springfield-Branson National Airport,167.0,USA,37.24433,-93.38686,America/New_York,Kaggle_Airports
+573,SGU,,St. George Regional Airport,288.0,USA,37.09058,-113.59306,America/New_York,Kaggle_Airports
+574,SHV,,Shreveport Regional Airport,132.0,USA,32.44663,-93.8256,America/New_York,Kaggle_Airports
+575,SIT,,Sitka Rocky Gutierrez Airport,17.0,USA,57.04714,-135.3616,America/New_York,Kaggle_Airports
+576,SJC,,Norman Y. Mineta San José International Airport,50.0,USA,37.36186,-121.92901,America/New_York,Kaggle_Airports
+577,SJT,,San Angelo Regional Airport (Mathis Field),280.0,USA,31.35775,-100.49631,America/New_York,Kaggle_Airports
+578,SJU,,Luis Muñoz Marín International Airport,248.0,USA,18.43942,-66.00183,America/New_York,Kaggle_Airports
+579,SLC,,Salt Lake City International Airport,287.0,USA,40.78839,-111.97777,America/New_York,Kaggle_Airports
+580,SMF,,Sacramento International Airport,47.0,USA,38.69542,-121.59077,America/New_York,Kaggle_Airports
+581,SMX,,Santa Maria Public Airport (Capt G. Allan Hancock Field),54.0,USA,34.89925,-120.45758,America/New_York,Kaggle_Airports
+582,SNA,,John Wayne Airport (Orange County Airport),52.0,USA,33.67566,-117.86822,America/New_York,Kaggle_Airports
+583,SPI,,Abraham Lincoln Capital Airport,113.0,USA,39.84395,-89.67762,America/New_York,Kaggle_Airports
+584,SPS,,Wichita Falls Municipal Airport/Sheppard AFB,284.0,USA,33.9888,-98.49189,America/New_York,Kaggle_Airports
+585,SRQ,,Sarasota-Bradenton International Airport,78.0,USA,27.39533,-82.55411,America/New_York,Kaggle_Airports
+586,STC,,St. Cloud Regional Airport,163.0,USA,45.54532,-94.05834,America/New_York,Kaggle_Airports
+587,STL,,St. Louis International Airport at Lambert Field,168.0,USA,38.74769,-90.35999,America/New_York,Kaggle_Airports
+588,STT,,Cyril E. King Airport,297.0,USA,18.33731,-64.97336,America/New_York,Kaggle_Airports
+589,STX,,Henry E. Rohlsen Airport,298.0,USA,17.70189,-64.79856,America/New_York,Kaggle_Airports
+590,SUN,,Friedman Memorial Airport,103.0,USA,43.50484,-114.29659,America/New_York,Kaggle_Airports
+591,SUX,,Sioux Gateway Airport,100.0,USA,42.4026,-96.38437,America/New_York,Kaggle_Airports
+592,SWF,,Stewart International Airport,219.0,USA,41.50409,-74.10484,America/New_York,Kaggle_Airports
+593,SYR,,Syracuse Hancock International Airport,223.0,USA,43.11119,-76.10631,America/New_York,Kaggle_Airports
+594,TLH,,Tallahassee International Airport,80.0,USA,30.39653,-84.35033,America/New_York,Kaggle_Airports
+595,TOL,,Toledo Express Airport,229.0,USA,41.58681,-83.80783,America/New_York,Kaggle_Airports
+596,TPA,,Tampa International Airport,81.0,USA,27.97547,-82.53325,America/New_York,Kaggle_Airports
+597,TRI,,Tri-Cities Regional Airport,257.0,USA,36.47521,-82.40742,America/New_York,Kaggle_Airports
+598,TTN,,Trenton Mercer Airport,204.0,USA,40.27669,-74.81347,America/New_York,Kaggle_Airports
+599,TUL,,Tulsa International Airport,232.0,USA,36.19837,-95.88824,America/New_York,Kaggle_Airports
+600,TUS,,Tucson International Airport,32.0,USA,32.11608,-110.94103,America/New_York,Kaggle_Airports
+601,TVC,,Cherry Capital Airport,155.0,USA,44.74144,-85.58224,America/New_York,Kaggle_Airports
+602,TWF,,Magic Valley Regional Airport (Joslin Field),107.0,USA,42.4818,-114.48774,America/New_York,Kaggle_Airports
+603,TXK,,Texarkana Regional Airport (Webb Field),28.0,USA,33.45371,-93.99102,America/New_York,Kaggle_Airports
+604,TYR,,Tyler Pounds Regional Airport,282.0,USA,32.35414,-95.40239,America/New_York,Kaggle_Airports
+605,TYS,,McGhee Tyson Airport,259.0,USA,35.81249,-83.99286,America/New_York,Kaggle_Airports
+606,UST,,Northeast Florida Regional Airport (St. Augustine Airport),79.0,USA,,,America/New_York,Kaggle_Airports
+607,VEL,,Valdez Airport,289.0,USA,40.4409,-109.50992,America/New_York,Kaggle_Airports
+608,VLD,,Valdosta Regional Airport,90.0,USA,30.7825,-83.27672,America/New_York,Kaggle_Airports
+609,VPS,,Destin-Fort Walton Beach Airport/Eglin AFB,82.0,USA,30.48325,-86.5254,America/New_York,Kaggle_Airports
+610,WRG,,Wrangell Airport,18.0,USA,56.48433,-132.36982,America/New_York,Kaggle_Airports
+611,WYS,,Westerly State Airport,181.0,USA,44.6884,-111.11764,America/New_York,Kaggle_Airports
+612,XNA,,Northwest Arkansas Regional Airport,25.0,USA,36.28187,-94.30681,America/New_York,Kaggle_Airports
+613,YAK,,Yakutat Airport,19.0,USA,59.50336,-139.66023,America/New_York,Kaggle_Airports
+614,YUM,,Yuma International Airport,33.0,USA,32.65658,-114.60597,America/New_York,Kaggle_Airports

@@ -1,0 +1,12 @@
+{
+  "bronze_flight_rows": 5819079,
+  "silver_clean_flight_rows": 5819079,
+  "duplicates_removed": 0,
+  "airport_code_match_rate_pct": 92.9,
+  "weather_observation_match_rate_pct": 23.07,
+  "date_range_min": "2015-01-01",
+  "date_range_max": "2015-12-31",
+  "cancelled_flights_count": 89884,
+  "delayed_15min_flights_count": 1063439,
+  "null_arrival_delay_pct": 1.81
+}

@@ -1,0 +1,8 @@
+status_key,status_label,cancellation_code,cancellation_desc
+1,Cancelled,A,Carrier / Airline
+2,Cancelled,B,Weather
+3,Cancelled,C,National Air System (NAS)
+4,Cancelled,D,Security
+5,Delayed (>=15m),N,Not Cancelled
+6,Diverted,N,Not Cancelled
+7,On-Time,N,Not Cancelled

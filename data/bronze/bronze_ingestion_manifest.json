@@ -1,0 +1,57 @@
+[
+  {
+    "source_name": "US_DOT_Flights",
+    "source_file": "flights.csv",
+    "bronze_artifacts": [
+      "bronze_flights.csv"
+    ],
+    "row_count": 5819079,
+    "column_count": 31,
+    "sha256_checksum": "afa4e42188b113dd69427a3fbd00a4b6979c6235c866f963c2899d18a3403a83",
+    "ingested_at_utc": "2026-11-23T13:02:45.640809+00:00"
+  },
+  {
+    "source_name": "US_DOT_Airlines",
+    "source_file": "airlines.csv",
+    "bronze_artifacts": [
+      "bronze_airlines.csv"
+    ],
+    "row_count": 14,
+    "column_count": 2,
+    "sha256_checksum": "ec54f453260c2a46fc76d497ab0eb0a4c13724b566fba8a7ce3bb8ad712acca3",
+    "ingested_at_utc": "2026-11-23T13:03:27.923514+00:00"
+  },
+  {
+    "source_name": "US_DOT_Airports",
+    "source_file": "airports.csv",
+    "bronze_artifacts": [
+      "bronze_airports.csv"
+    ],
+    "row_count": 322,
+    "column_count": 7,
+    "sha256_checksum": "23c4cea98c318225bd923b2068ead8af089845071f79fd9ea0037ba6a61cd4e2",
+    "ingested_at_utc": "2026-11-23T13:03:27.940132+00:00"
+  },
+  {
+    "source_name": "OurAirports_Reference",
+    "source_file": "ourairports_reference.csv",
+    "bronze_artifacts": [
+      "bronze_ourairports.csv"
+    ],
+    "row_count": 15,
+    "column_count": 6,
+    "sha256_checksum": "e6f722fd48b3ab0bd98d22021f1bc72cab63cb97f6d855dab8d5044cf7e3ac70",
+    "ingested_at_utc": "2026-11-23T13:03:27.957171+00:00"
+  },
+  {
+    "source_name": "NOAA_Weather",
+    "source_file": "noaa_weather_observations.csv",
+    "bronze_artifacts": [
+      "bronze_weather.csv"
+    ],
+    "row_count": 12324,
+    "column_count": 8,
+    "sha256_checksum": "97c5c239c6c5d12b8d18b80a71e4013b2b8c22bbafac5a5329e85cd934db9306",
+    "ingested_at_utc": "2026-11-23T13:03:27.976203+00:00"
+  }
+]
